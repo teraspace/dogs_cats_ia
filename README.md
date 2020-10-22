@@ -7,6 +7,8 @@ neural_network.py its a class 100% written for me applying knowledgments adquire
 
 You can use them but please respecting my "by Carlos Manuel Patiño".
 
-I will try to mount this project on Google Codelabs.
+Here link to codelabs https://colab.research.google.com/github/teraspace/dogs_cats_ia/blob/master/neura_network_class_image.ipynb
+
+Maybe you'll need download collections cat, dog and tests from this repository to Colab by login with your own account.
 
 Enjoy!!!
