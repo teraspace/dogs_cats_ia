@@ -1,4 +1,7 @@
-#Compuerta lógica AND negada.
+#Este ejercicio que escribí acá;  aplica las teorías enseñadas por AndrewNG, usando todas las operacioens matemáticas, sin vectores. 
+#Solo el puro algoritmo; sin embargo no usa capas ocultas; por lo que la aplicabilidad es limitada, un intento de hacerlo con multiples capas, falló debido a la complejidad
+#luego la lentitud de los calculos.
+#By Carlos Manuel Patiño Machado
 
 import numpy as np
 import tensorflow as tf
