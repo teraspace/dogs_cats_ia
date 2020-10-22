@@ -1,3 +1,6 @@
+#By Carlos Manuel Patiño, some calculations has been taken fron AndrewNG Coursera material. 
+
+
 import random
 import numpy as np 
 class NeuralNetwork():
