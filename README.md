@@ -7,5 +7,6 @@ neural_network.py its a class 100% written for me applying knowledgments adquire
 
 You can use them but please respecting my "by Carlos Manuel Patiño".
 
+I will try to mount this project on Google Codelabs.
 
 Enjoy!!!
