@@ -1,4 +1,8 @@
-#Compuerta lógica AND negada.
+#Ejercicio realizado "from scratch", usando conocimientos adquiridos en los cursos de AndreNG.
+#El código esta completamente documentado en español por mi.
+
+# By Carlos Manuel Patiño
+
 import numpy as np 
 import math as math
 
