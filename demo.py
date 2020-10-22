@@ -1,3 +1,4 @@
+#This exercies demonstrates XOR logic need more than one perceptron
 import numpy as np
 import math
 
