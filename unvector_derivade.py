@@ -1,4 +1,8 @@
-#Compuerta lógica AND negada.
+#Este otro ejercicio es el intento de entrenar el perceptron usando las derivadas, es decir la Backpropagation,
+#por lo que el bucle solo se detiene cuando se alcanza la tasa de error deseada
+#con este ejercicio abrí las puertas a enteder el Deep Learning.
+
+#By Carlos Manuel Patiño Machado
 
 import numpy as np
 import tensorflow as tf
